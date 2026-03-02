@@ -1,47 +1,73 @@
 <h1 align="center">Hi 👋, I'm Dhruv Mehta</h1>
-<h3 align="center">Engineering Student | Problem Solver | Systems Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Design Head | Systems & Product Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Data+Structures+%26+Algorithms;OS+%7C+Computer+Networks;Backend+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Java+%7C+Python+%7C+C%2B%2B;UI%2FUX+Designer+%7C+Figma;Building+Scalable+Web+Applications" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Engineering Student at **Bennett University**
-- 💻 Strong in **C++ & Data Structures**
-- 🧠 Interested in **Operating Systems & Computer Networks**
-- 🌱 Currently learning **Java Backend (Servlet, JDBC, Spring Boot)**
-- 🎯 Focused on building strong fundamentals in core CS
+- 🎓 2nd Year Engineering Student at **Bennett University**
+- 💻 Full-Stack Specialization (MERN + Backend Systems)
+- 🧠 Strong foundation in **Java, C++, Python**
+- 🎨 Passionate about **UI/UX Design (Figma)**
+- 🏆 Former Design Head at **E-Cell Bennett University (2025–2026)**
+- 🌍 Currently Design Head at **Google Developers Group (GDG)**
+- ⚡ Interested in scalable backend architecture & impactful products
 
 ---
 
 ### 🛠 Tech Stack
 
+#### 💻 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-grey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+</p>
+
+#### 🌐 Full Stack Development (MERN)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
+#### ⚙ Backend & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,mysql,git,github" />
+</p>
+
+#### 🎨 Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
 
-### ⚡ Competitive Programming
+### 📌 Current Focus
 
-- 🧩 Solving DSA problems regularly
-- 🎯 Focused on logic building & optimization
-- 📈 Consistency > Motivation
+- 🚀 Building Full-Stack Applications
+- 🎨 Improving UI/UX & Product Thinking
+- ⚙ Learning scalable backend systems
+- 🌍 Contributing to developer communities
+
+---
+
+### 👀 Profile Views
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=dhruvmehta221105&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/dhruv-mehta-bab17b31a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Mehta-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+
+---
+
+⭐ *“Design is intelligence made visible. Code is logic made powerful.”*
