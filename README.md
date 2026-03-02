@@ -66,6 +66,9 @@
   <a href="https://www.linkedin.com/in/dhruv-mehta-bab17b31a/">
     <img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Mehta-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+  <a href="https://www.instagram.com/dhruv.mehta22">
+    <img src="https://img.shields.io/badge/Instagram-dhruv.mehta22-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
