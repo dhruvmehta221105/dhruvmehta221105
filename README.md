@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Dhruv Mehta</h1>
 <h3 align="center">Full-Stack Developer | Design Head | Systems & Product Enthusiast</h3>
----
-
 ### About Me
 
 - 2nd Year Engineering Student at **Bennett University**
