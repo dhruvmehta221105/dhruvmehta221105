@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dhruv Mehta</h1>
 <h3 align="center">Full-Stack Developer | Design Head | Systems & Product Enthusiast</h3>
 <h4 align="left"> About Me </h4>
-<p>
+
 - 2nd Year Engineering Student at **Bennett University**
 - Full-Stack Specialization (MERN + Backend Systems)
 - Strong foundation in **Java, C++, Python**
@@ -9,7 +9,6 @@
 - Former Design Head at **E-Cell Bennett University (2025–2026)**
 - Currently Design Head at **Google Developers Group (GDG)**
 - Interested in scalable backend architecture & impactful products
-</p>
 ---
 
 ### Tech Stack
