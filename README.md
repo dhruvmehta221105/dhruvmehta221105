@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Dhruv Mehta</h1>
 <h3 align="center">Full-Stack Developer | Design Head | Systems & Product Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Java+%7C+Python+%7C+C%2B%2B;UI%2FUX+Designer+%7C+Figma;Building+Scalable+Web+Applications" />
-</p>
-
 ---
 
 ### About Me
