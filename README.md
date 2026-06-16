@@ -2,12 +2,10 @@
 <h3 align="center">Full-Stack Developer | Design Head | Systems & Product Enthusiast</h3>
 <h4 align="left"> About Me </h4>
 
-- 2nd Year Engineering Student at **Bennett University**
+- 3rd Year Engineering Student at **Bennett University**
 - Full-Stack Specialization (MERN + Backend Systems)
 - Strong foundation in **Java, C++, Python**
 - Passionate about **UI/UX Design (Figma)**
-- Former Design Head at **E-Cell Bennett University (2025–2026)**
-- Currently Design Head at **Google Developers Group (GDG)**
 - Interested in scalable backend architecture & impactful products
 ---
 
