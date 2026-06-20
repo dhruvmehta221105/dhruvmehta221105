@@ -159,25 +159,6 @@ Blockchain Innovation with Ethereum at the Core
 </p>
 
 ---
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvmehta221105&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmehta221105&layout=compact&hide_border=true&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvmehta221105&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 # Contribution Graph
 
 <p align="center">
