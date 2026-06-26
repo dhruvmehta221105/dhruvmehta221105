@@ -125,7 +125,31 @@ Blockchain Innovation with Ethereum at the Core
 • Published in Springer Proceedings
 
 ---
+---
 
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvmehta221105&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=dhruvmehta221105&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmehta221105&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dhruvmehta221105&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+</p>
+
+---
 # Tech Stack
 
 ### Languages
