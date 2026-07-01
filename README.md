@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Dhruv%20Mehta&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-# Dhruv Mehta
 
 ### Backend Engineering • Full-Stack Development • Product Design
 
