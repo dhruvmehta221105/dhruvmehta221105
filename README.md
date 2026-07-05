@@ -106,12 +106,6 @@ Led creative direction and visual identity for technical events and workshops.
 
 ---
 
-### IEEE Design Team
-
-Designed promotional material and branding for technical communities.
-
----
-
 # Research
 
 **Springer International Conference**
