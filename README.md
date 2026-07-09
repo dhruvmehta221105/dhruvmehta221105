@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Dhruv%20Mehta&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Dhruv%20Mehta&fontSize=48&fontColor=ffffff"/>
 
 ### Backend Engineering • Full-Stack Development • Product Design
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Scalable+Applications;Learning+System+Design;Designing+Meaningful+Products;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Applications;Learning+System+Design;Full+Stack+Developer;Always+Building+Something+New"/>
 
 <p>
 
@@ -31,106 +30,126 @@
 
 ---
 
-# About
+# About Me
 
-I'm a Computer Science undergraduate at **Bennett University** interested in backend engineering, scalable web applications and product development.
+I'm a Computer Science undergraduate at **Bennett University** passionate about backend engineering, scalable web applications and modern software architecture.
 
-I enjoy designing systems that are reliable, maintainable and user-focused while continuously improving my understanding of software architecture and modern development practices.
+My primary interests are backend development, AI-powered applications, distributed systems and building products that solve real-world problems.
 
-Currently focused on writing clean code, solving Data Structures & Algorithms, and building production-ready full-stack applications.
+Currently focused on improving my backend engineering skills through production-ready projects, DSA and system design.
 
 ---
 
 # Current Focus
 
-- Building scalable backend applications
-- Learning System Design
-- MERN Stack & Spring Boot
-- AI-powered products
-- Open Source Contributions
-- LeetCode & DSA
+- Backend Development
+- MERN Stack
+- Spring Boot
+- System Design
+- AI Applications
+- Open Source
+- LeetCode
+
+---
+
+# Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,react,nextjs,nodejs,express,spring,mongodb,mysql,git,github,tailwind,figma,postman,vscode"/>
+
+</p>
 
 ---
 
 # Featured Projects
 
-## PromptShield
+## 🛡 PromptShield
 
-AI Security Gateway that detects prompt injection attacks, jailbreak attempts and sensitive information leakage.
+AI Security Gateway for Large Language Models that detects:
 
-**Stack**
+- Prompt Injection
+- Jailbreak Attempts
+- Sensitive Data Leakage
+- System Prompt Extraction
 
-`Next.js` `TypeScript` `Tailwind CSS` `Gemini API`
+**Tech Stack**
 
----
-
-## InterviewX
-
-AI-powered interview practice platform featuring real-time mock interviews, automated transcript generation and AI evaluation.
-
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB`
+Next.js • TypeScript • Tailwind CSS • Gemini API • Node.js
 
 ---
 
-## ManageMyBiz
+## 🎤 InterviewX
 
-Business management platform supporting customer management, role-based authentication, PDF reports and operational workflows.
+AI-powered interview platform featuring:
+
+- Real-time mock interviews
+- AI evaluation
+- Transcript generation
+- Performance feedback
 
 **Stack**
 
-`Python` `MySQL`
+React • Node.js • Express • MongoDB
 
 ---
 
-## Portfolio
+## 📊 ManageMyBiz
 
-Personal developer portfolio built with Next.js featuring responsive layouts, animations and modern UI components.
+Business Management System supporting:
+
+- Customer Management
+- Authentication
+- PDF Reports
+- Operational Workflows
+
+**Stack**
+
+Python • MySQL
+
+---
+
+## 🌐 Portfolio
+
+Modern portfolio built with Next.js featuring animations, responsive UI and optimized performance.
 
 ---
 
 # Experience
 
 ### Design Head
-SPARK Entrepreneurship Cell
+**SPARK Entrepreneurship Cell**
 
-Designed branding, event assets and digital experiences for entrepreneurship initiatives.
+Designed branding, marketing assets and digital experiences for entrepreneurship initiatives.
 
 ---
 
 ### Design Head
-Google Developers Group (GDG)
+**Google Developers Group (GDG)**
 
 Led creative direction and visual identity for technical events and workshops.
 
 ---
 
-# Research
+# Research & Achievements
+
+🏆 **Best Paper Presentation**
 
 **Springer International Conference**
 
-Building the Decentralized Future:
-Blockchain Innovation with Ethereum at the Core
+**Building the Decentralized Future: Blockchain Innovation with Ethereum at the Core**
 
-• First Prize – Best Paper Presentation
-
-• Published in Springer Proceedings
+- Published in Springer Proceedings
+- First Prize – Best Paper Presentation
 
 ---
 ---
 
-# GitHub Analytics
+# 📊 GitHub Overview
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvmehta221105&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=dhruvmehta221105&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvmehta221105&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmehta221105&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -138,68 +157,30 @@ Blockchain Innovation with Ethereum at the Core
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dhruvmehta221105&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
-
-</p>
-
----
-# Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript"/>
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
-</p>
-
-### Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman"/>
-</p>
-
----
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvmehta221105&theme=github-dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvmehta221105&theme=github_dark"/>
 
 </p>
 
 ---
 
-# Connect
+# 🌐 Let's Connect
 
 <p align="center">
 
-<a href="https://dhruv-portfolio-iota-liard.vercel.app/">
-Portfolio
+<a href="https://dhruv-portfolio.live">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-•
+
+<a href="https://github.com/dhruvmehta221105">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
 <a href="https://www.linkedin.com/in/dhruv-mehta-bab17b31a">
-LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-•
+
 <a href="mailto:dhruv.mehta3141@gmail.com">
-Email
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -208,12 +189,30 @@ Email
 
 <div align="center">
 
+### 💡 Philosophy
+
+> *"Great software isn't just code that works—it's code that's understandable, maintainable, and built to solve real problems."*
+
+</div>
+
+---
+
+<div align="center">
+
+```cpp
+class Developer {
+public:
+    void dailyRoutine() {
+        while (true) {
+            learn();
+            build();
+            debug();
+            improve();
+        }
+    }
+};
 ```
-while (learning) {
-    build();
-    improve();
-    repeat();
-}
-```
+
+⭐ Thanks for visiting my profile!
 
 </div>
