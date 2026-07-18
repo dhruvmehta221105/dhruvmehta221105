@@ -59,8 +59,9 @@ I'm a Computer Science undergraduate passionate about designing scalable backend
 
 #  Current Focus
 
--  Building **PromptShield**
+-  Consistency
 -  Building production-ready fullstack applications
+-  Smart Work
 
 ---
 
