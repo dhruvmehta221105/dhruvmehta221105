@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=220&section=header&text=Dhruv%20Mehta&fontSize=48&fontColor=ffffff"/>
 
-# Backend Engineer • Full-Stack Developer • Product Builder
+# Full-Stack Developer • Product Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Backend+Engineering;Building+Production-Ready+Applications;Learning+System+Design;AI+Security+Enthusiast;Always+Building+Something+New"/>
 
@@ -36,11 +36,12 @@ public class Dhruv {
     String university = "Bennett University";
 
     String[] interests = {
-        "Backend Engineering",
+        "Full Stack Development",
         "System Design",
         "Artificial Intelligence",
-        "Cloud Computing",
+        "Figma",
         "Open Source"
+
     };
 
     void life() {
@@ -53,7 +54,7 @@ public class Dhruv {
 }
 ```
 
-I'm a Computer Science undergraduate passionate about designing scalable backend systems, AI-powered applications and developer tools. I enjoy solving real-world problems through clean architecture, modern technologies and continuous learning.
+I'm a Computer Science undergraduate passionate about designing scalable fullstack systems, AI-powered applications and developer tools. I enjoy solving real-world problems through clean architecture, modern technologies and continuous learning.
 
 ---
 
