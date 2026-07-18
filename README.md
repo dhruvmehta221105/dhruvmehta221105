@@ -60,10 +60,7 @@ I'm a Computer Science undergraduate passionate about designing scalable backend
 #  Current Focus
 
 -  Building **PromptShield**
--  Learning **Spring Boot**, **System Design** & **Cloud**
--  Solving LeetCode Daily
--  Exploring Open Source
--  Building production-ready backend applications
+-  Building production-ready fullstack applications
 
 ---
 
