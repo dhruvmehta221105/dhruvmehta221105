@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://dhruv-portfolio.live">
+<a href="https://dhruv-portfolio-iota-liard.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
