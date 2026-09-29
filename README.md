@@ -110,7 +110,7 @@ I'm a Computer Science undergraduate passionate about designing scalable fullsta
 
 <div align="center">
 
-<a href="https://dhruv-portfolio-iota-liard.vercel.app/">
+<a href="https://dhruvmehta.vercel.app//">
 <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
